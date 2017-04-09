@@ -38,7 +38,7 @@
 <distributionManagement>
   	<repository>
   		<id>prod</id>
-  		<url>http://ec2-34-209-32-149.us-west-2.compute.amazonaws.com:8081/repository/Maven_Artifactory/</url>
+  		<url>http://ec2-54-148-155-61.us-west-2.compute.amazonaws.com:8081/repository/Maven_Artifactory/</url>
   		<name>myprod</name>
          </repository>
 
